@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahana Bhat</h1>
-<h3 align="center">A passionate Software Deefrom India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
+- 💻 I’m currently interning at **Google** as a **Software Developer Intern** 
+- 
 - 🔭 I’m currently working on **A Multi-Modal ML-Based Satellite-assisted Microplastic detector**
 
 - 🌱 I’m currently learning **Cybersecurity from Google**
